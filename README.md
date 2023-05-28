@@ -44,21 +44,21 @@ Some screenshots of the Application:
     <td>Food Map Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682397-00db142f-8817-47d5-b23d-e67aef63ea02.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682399-7f6ba8ba-0805-4797-9af1-8994707c9adb.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683214-c1795ace-d312-40f2-9b1f-72a855ea27bd.png" width="220"></td>
+    <td><img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Dashboard.jpg" width="220"></td>
+    <td><img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Donate.jpg" width="220"></td>
+    <td><img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Receive.jpg" width="220"></td>
+    <td><img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Food%20Map%201.jpg" width="220"></td>
   </tr>
  </table>
  </table>
  <table>
   <tr>
-    <td>History Screen</td>
+    <td>Developed By Screen</td>
     <td>About Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683209-1f154899-b993-43e2-8536-d8fceb61cbe5.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683224-83af7bc1-f8c6-4b6b-bd26-3ec9b13813a3.png" width="220"></td>
+    <td><img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Developed%20By.jpg" width="220"></td>
+    <td><img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/About%20us.jpg" width="220"></td>
   </tr>
  </table>
  </p>
