@@ -11,13 +11,13 @@ The ultimate objective of this project is to communicate that investments in foo
 Flowchart of the working of the application:
 
 <p align="center">
-  <img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Flowchart.png">
+  <img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Flowchart.png" width="500">
 </p>
 
 System Design of the working of the application:
 
 <p align="center">
-  <img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/System%20Design.png">
+  <img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/System%20Design.png"  width="500">
 </p>
 
 Some screenshots of the Application: 
