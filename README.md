@@ -8,19 +8,19 @@ As mentioned above in the description there is a lot of food wastage that occurs
 The ultimate objective of this project is to communicate that investments in food wastage reduction is the most logical step in the pursuit of sustainable production and consumption, including food security, climate change and other adverse environmental effects. Public awareness materials and a strategy will be developed to this effect.
 </div>
 
-Flowchart of the working of the application:
+<b>Flowchart of the working of the application:<b>
 
 <p align="center">
   <img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Flowchart.png" width="500">
 </p>
 
-System Design of the working of the application:
+<b>System Design of the working of the application:<b>
 
 <p align="center">
   <img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/System%20Design.png"  width="500">
 </p>
 
-Some screenshots of the Application: 
+<b>Some screenshots of the Application: <b>
 <p align="center" float="left">
 <table>
   <tr>
