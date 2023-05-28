@@ -14,7 +14,7 @@ Flowchart of the working of the application:
   <img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Flowchart.png">
 </p>
 
-Flowchart of the working of the application:
+System Design of the working of the application:
 
 <p align="center">
   <img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/System%20Design.png">
@@ -30,10 +30,10 @@ Some screenshots of the Application:
     <td>Login Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682387-33b613c2-86a7-4622-80a0-0560e4733716.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682390-c4d23438-4e4a-4eff-9471-5f881618c16f.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682402-6a9917ae-0734-4b37-a8ef-bfcc0f49f537.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682393-903ff2a0-2aac-48d4-92a5-0d3e2f403a84.png" width="220"></td>
+    <td><img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Splash.jpg" width="220"></td>
+    <td><img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Landing%20Page.jpg" width="220"></td>
+    <td><img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Register.jpg" width="220"></td>
+    <td><img src="https://github.com/Saurabhh07/Food-Waste-Reduction/blob/master/screenshots/Login.jpg" width="220"></td>
   </tr>
  </table>
  <table>
